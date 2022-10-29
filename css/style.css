@@ -1,0 +1,37 @@
+#navbar {
+    background-color: purple;
+    font-weight: 400;
+}
+
+#navbar a {
+    color: white;
+}
+
+
+#donatebtn {
+    background-color: rgb(255, 80, 0);
+    font-weight: 400;
+    color: white;
+}
+p {
+    font-weight: lighter;
+    color: gray;
+}
+
+.hero {
+    position: relative;
+    height: 100vh;
+    background-color: var(--primary-color);
+    overflow: hidden;
+}
+
+
+
+#projects {
+    background-color: rgb(241, 218, 189);
+}
+
+footer {
+    background-color: purple;
+  
+}
